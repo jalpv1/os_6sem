@@ -1,0 +1,7 @@
+﻿  alloc.cpp
+  os_1.cpp
+  Создание кода...
+E:\Documents\c_alloc\os_1\os_1\alloc.cpp(35): warning C4715: Allocator::mem_alloc: значение возвращается не при всех путях выполнения
+E:\Documents\c_alloc\os_1\os_1\alloc.cpp(27): warning C4172: возвращение адреса локальной или временной переменной : ret
+E:\Documents\c_alloc\os_1\os_1\alloc.cpp(115): warning C4172: возвращение адреса локальной или временной переменной : ret
+  os_1.vcxproj -> E:\Documents\c_alloc\os_1\Debug\os_1.exe
