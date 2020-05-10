@@ -1,0 +1,4 @@
+﻿  os_lifo2.cpp
+E:\Documents\os_lifo2\os_lifo2\os_lifo2\os_lifo2.cpp(133,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Documents\os_lifo2\os_lifo2\os_lifo2\os_lifo2.cpp(147,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  os_lifo2.vcxproj -> E:\Documents\os_lifo2\os_lifo2\Debug\os_lifo2.exe
